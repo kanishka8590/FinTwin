@@ -140,7 +140,7 @@ The platform provides visibility into the financial events behind the higher-lev
                     │ • Refunds            │
                     │ • Settlements        │
                     └──────────────────────┘
-
+```
 ## Author
 
 **Kanishka Sharma**
