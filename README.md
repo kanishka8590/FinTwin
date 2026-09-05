@@ -140,3 +140,10 @@ The platform provides visibility into the financial events behind the higher-lev
                     │ • Refunds            │
                     │ • Settlements        │
                     └──────────────────────┘
+
+## Author
+
+**Kanishka Sharma**
+
+* GitHub: https://github.com/kanishka8590
+* LinkedIn: https://www.linkedin.com/in/kanishka-sharma-13abb7351
